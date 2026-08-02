@@ -20,7 +20,9 @@ updates:
 
   - package-ecosystem: gradle
     labels: []
-    directory: /
+    directories:
+      - /patches
+      - /extensions/extension
     target-branch: dev
     schedule:
       interval: monthly
