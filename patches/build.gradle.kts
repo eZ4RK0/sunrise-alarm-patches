@@ -30,8 +30,8 @@ dependencies {
     compileOnly(libs.gson)
     patchListGeneratorClasspath(libs.gson)
 
-    compileOnly("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.9.0")
-    testApplyClasspath("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.9.0")
+    compileOnly("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.11.0")
+    testApplyClasspath("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.11.0")
 }
 
 tasks {
