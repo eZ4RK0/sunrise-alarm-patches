@@ -1,12 +1,8 @@
-# 👋🧩 Morphe Patches template
-
-Template repository for Morphe Patches.
+# 👋🧩 Zarko Patches
 
 ## ❓ About
 
-Patches for apps I like.
-
-TODO: Update this about section with a brief introduction/summary about this repo and what it offers.
+Patches for Sunrise Alarm: Wake-Up Light (com.laironcorp.sunrisealarm).
 
 ## 🩹 Patches list
 
@@ -72,15 +68,15 @@ To develop and release your Patches using this template:
 
 #### How to use these patches
 
-Click here to add these patches to Morphe: https://morphe.software/add-source?github=xyz-user/xyz-patches
+Click here to add these patches to Morphe: https://morphe.software/add-source?github=eZ4RK0/sunrise-alarm-patches
 
-Or manually add this repository url as a patch source in Morphe: https://github.com/xyz-user/xyz-patches
+Or manually add this repository url as a patch source in Morphe: https://github.com/eZ4RK0/sunrise-alarm-patches
 
 ### 🛠️ Building
 
-To build UserXYZ Patches,
+To build Zarko Patches,
 you can follow the [Morphe documentation](https://github.com/MorpheApp/morphe-documentation).
 
 ## 📜 License
 
-UserXYZ Patches are licensed under the [GNU General Public License v3.0](LICENSE)
+Zarko Patches are licensed under the [GNU General Public License v3.0](LICENSE)
